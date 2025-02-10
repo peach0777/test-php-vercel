@@ -1,9 +1,3 @@
-<?php
-  require __DIR__ . '/../vendor/autoload.php';
-  $dotenv = Dotenv\Dotenv::createImmutable(__DIR__ . '/../');
-  $dotenv->safeLoad();
-?>
-
 <!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 <head>
@@ -11,14 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PHP + Vercel</title>
-  <link rel="shortcut icon" href="../public/images/favicon.png" type="image/x-icon">
+  <!-- <link rel="shortcut icon" href="../public/images/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="../public/styles/styles.css">
   <link rel="stylesheet" href="../public/styles/bootstrap.min.css">
   <link rel="stylesheet" href="../public/styles/atom-one-dark.min.css">
   <script src="../public/scripts/highlight.min.js"></script>
-  <script src="<?=$_ENV['FONT_AWESOME'];?>"></script>
+  <script src=""></script>
   <script src="../public/scripts/scripts.js"></script>
-  <script src="../public/scripts/bootstrap.bundle.min.js"></script>
+  <script src="../public/scripts/bootstrap.bundle.min.js"></script> -->
 </head>
 <body>
   <main class="container-lg">

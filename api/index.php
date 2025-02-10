@@ -5,13 +5,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?="PHP + Vercel";?></title>
-  <link rel="shortcut icon" href="../public/images/favicon.png" type="image/x-icon">
+  <!-- <link rel="shortcut icon" href="../public/images/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="../vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="../public/styles/styles.css">
-  <link rel="stylesheet" href="../public/styles/bootstrap.min.css">
+  <link rel="stylesheet" href="../public/styles/bootstrap.min.css"> -->
 </head>
 <body class="d-flex min-vh-100 text-center">
-  <main class="d-flex container-lg mx-auto flex-column">
+  <!-- <main class="d-flex container-lg mx-auto flex-column">
     <header class="pt-5">
         <div class="d-flex w-50 align-items-center justify-content-center mx-auto">
           <div>
@@ -36,6 +36,6 @@
       </footer>
     </main>
   <script src="../public/scripts/scripts.js"></script>
-  <script src="../public/scripts/bootstrap.bundle.min.js"></script>
+  <script src="../public/scripts/bootstrap.bundle.min.js"></script> -->
 </body>
 </html>
