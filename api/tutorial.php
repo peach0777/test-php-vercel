@@ -15,7 +15,7 @@
   <script src="../public/scripts/bootstrap.bundle.min.js"></script> -->
 </head>
 <body>
-  <main class="container-lg">
+  <!-- <main class="container-lg">
     <div class="row">
       <div class="col-lg-9 col-12 mx-auto">
         <header class="text-center mt-4">
@@ -149,6 +149,6 @@
         </section>
       </div>
     </div>
-  </main>
+  </main> -->
 </body>
 </html>
